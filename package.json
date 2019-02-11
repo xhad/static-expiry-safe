@@ -31,9 +31,9 @@
   "devDependencies": {
     "connect": "^3.6.6",
     "express": "^4.16.3",
-    "mocha": "3.x.x",
+    "mocha": "^5.2.0",
     "should": "11.x.x",
-    "supertest": "^2.0.1"
+    "supertest": "^3.4.2"
   },
   "main": "index",
   "typings": "index.d.ts",
